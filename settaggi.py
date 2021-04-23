@@ -1,0 +1,3 @@
+NOME_FILE_CREDENZIALI = "keys.json"
+EMAIL = "godpesc@gmail.com"
+AGGIUNTA_NOME_CLONATO = " CLONATO CON PESC"
